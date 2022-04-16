@@ -1,0 +1,28 @@
+.image__wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+.image__tooltip {
+    position: absolute;
+    top: -100%;
+    left: calc(50%);
+    transform: translateX(-50%);
+}
+
+.image_activ {
+    top: 15px;
+}
+
+.tooltip__wrapper {
+    height: calc(100vh - 56px);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
