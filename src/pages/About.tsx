@@ -12,12 +12,15 @@ const About = () => {
             </p>
             <p>
                 Интересные репозиториии:
+                <br />
                 <a href="https://github.com/ryslanukhlin/company">
                     https://github.com/ryslanukhlin/company
                 </a>
+                <br />
                 <a href="https://github.com/ryslanukhlin/NestAndNextShopPizza">
                     https://github.com/ryslanukhlin/NestAndNextShopPizza
                 </a>
+                <br />
                 <a href="https://github.com/ryslanukhlin/simple-chat">
                     https://github.com/ryslanukhlin/simple-chat
                 </a>
